@@ -1,6 +1,18 @@
-## Technical Steering
+# Technical Steering
 
 The OpenSearch Project is supported by [The OpenSearch Software Foundation](https://foundation.opensearch.org/), a project of [The Linux Foundation](https://www.linuxfoundation.org/). You can read the launch announcement [here](https://www.linuxfoundation.org/press/linux-foundation-announces-opensearch-software-foundation-to-foster-open-collaboration-in-search-and-analytics) and learn more about joining the foundation [here](https://foundation.opensearch.org/).
+
+This repo is the home of the OpenSearch Project Technical Steering Committee (TSC).
+
+## Technical Steering Committee
+
+The OpenSearch Software Foundation Technical Steering Committee (TSC) aims to uphold and enhance the technical direction of the OpenSearch Project, benefiting the entire OpenSearch community. 
+
+* [TSC Members](MEMBERS.md)
+
+## History
+
+The TSC replaced the [OpenSearch Leadership Committee](https://github.com/opensearch-project/community/tree/2f9848c1f581e2545185628a6033bf1e3ade5b44/leadership-committee) after the [formation of the OpenSearch Software Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-opensearch-software-foundation-to-foster-open-collaboration-in-search-and-analytics). 
 
 ## Security
 

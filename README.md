@@ -8,7 +8,8 @@ This repo is the home of the OpenSearch Project Technical Steering Committee (TS
 
 The OpenSearch Software Foundation Technical Steering Committee (TSC) aims to uphold and enhance the technical direction of the OpenSearch Project, benefiting the entire OpenSearch community. 
 
-* [TSC Members](MEMBERS.md)
+* [Members](MEMBERS.md)
+* [Charter](https://foundation.opensearch.org/assets/media/OpenSearch%20Project%20Technical%20Charter%20Final%209-13-2024.docx.pdf)
 
 ## History
 

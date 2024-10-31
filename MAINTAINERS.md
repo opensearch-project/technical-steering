@@ -17,7 +17,7 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | Bryan Burkholder          | [bryanlb](https://github.com/bryanlb)               | Slack/Salesforce |
 | Daniel Doubrovkine        | [dblock](https://github.com/dblock)                 | Amazon      |
 | Eli Fisher                | [elfisher](https://github.com/elfisher)             | AWS         |
-| Jonah Kowall              | [jkowall](https://github.com/jkowall)               | Independent |
+| Jonah Kowall              | [jkowall](https://github.com/jkowall)               | Paessler    |
 | Karsten Schnitter         | [KarstenSchnitter](https://github.com/KarstenSchnitter) | SAP    |
 | Kris Freedain             | [krisfreedain](https://github.com/krisfreedain)     | Amazon      |
 | Pallavi Priyadarshini     | [Pallavi-AWS](https://github.com/Pallavi-AWS)       | AWS         |

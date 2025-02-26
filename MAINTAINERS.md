@@ -12,7 +12,7 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | Amitai Stern          | [amistrn](https://github.com/amistrn)                   | Logz.io          |
 | Anandhi Bumstead      | [anastead](https://github.com/anastead)                 | AWS              |
 | Andrew Ross           | [andrross](https://github.com/andrross)                 | AWS              |
-| Andriy Redko          | [reta](https://github.com/reta)                         | Aiven            |
+| Andriy Redko          | [reta](https://github.com/reta)                         | Independent      |
 | Austin Lee            | [austintlee](https://github.com/austintlee)             | Aryn             |
 | Bryan Burkholder      | [bryanlb](https://github.com/bryanlb)                   | Slack/Salesforce |
 | Daniel Doubrovkine    | [dblock](https://github.com/dblock)                     | Independent      |

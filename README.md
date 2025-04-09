@@ -11,6 +11,14 @@ The OpenSearch Software Foundation Technical Steering Committee (TSC) aims to up
 * [Members](MEMBERS.md)
 * [Charter](https://foundation.opensearch.org/assets/media/OpenSearch%20Project%20Technical%20Charter%20Final%209-13-2024.docx.pdf)
 
+## Contact
+
+To reach the OpenSearch Software Foundation Technical Steering Committee (TSC) please use one of the following methods:
+
+* Open an [Issue](https://github.com/opensearch-project/technical-steering/issues) in the technical-steering repo
+* Email the group via [TSC@lists.opensearch.foundation](mailto:TSC@lists.opensearch.foundation)
+
+
 ## History
 
 The TSC replaced the [OpenSearch Leadership Committee](https://github.com/opensearch-project/community/tree/2f9848c1f581e2545185628a6033bf1e3ade5b44/leadership-committee) after the [formation of the OpenSearch Software Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-opensearch-software-foundation-to-foster-open-collaboration-in-search-and-analytics). 

@@ -11,6 +11,12 @@ The OpenSearch Software Foundation Technical Steering Committee (TSC) aims to up
 * [Members](MEMBERS.md)
 * [Charter](https://foundation.opensearch.org/assets/media/OpenSearch%20Project%20Technical%20Charter%20Final%209-13-2024.docx.pdf)
 
+## Special Interest Groups
+
+The technical steering committee has approved the formation of [SIGs](special-interest-groups/README.md). The following SIGs are active:
+
+- [Build Interest Group (BIG)](special-interest-groups/build-interest-group/)
+
 ## Contact
 
 To reach the OpenSearch Software Foundation Technical Steering Committee (TSC) please use one of the following methods:

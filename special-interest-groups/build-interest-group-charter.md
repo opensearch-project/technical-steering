@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The OpenSearch Project, following Technical Steering Committee (TSC) recommendations, proposes to create a Build Interest Group (BIG) that focuses on repository health. This includes managing new repository creation, monitoring activity in existing repositories, and tracking maintainer status. This group will also establish guidelines for members, set criteria for newly proposed repositories, and come up with recommendations which will be then reviewed by TSC for decision making. The group will provide feedback to the Technical Steering Committee (TSC) before the final decision is made through a voting of TSC members.
+The OpenSearch Project, following Technical Steering Committee (TSC) recommendations, proposes to create a Build Interest Group (BIG) that focuses on repository health. This includes managing new repository creation, retiring or archiving the existing repositories, monitoring activity in existing repositories, and tracking maintainer status. This group will also establish guidelines for members, set criteria for newly proposed repositories, and come up with recommendations which will be then reviewed by TSC for decision making. The group will provide feedback to the Technical Steering Committee (TSC) before the final decision is made through a voting of TSC members.
 
 ## Responsibilities
 

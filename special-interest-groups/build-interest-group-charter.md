@@ -11,7 +11,7 @@ The OpenSearch Project, following Technical Steering Committee (TSC) recommendat
 * Ensure new repositories align with the foundation’s [charter](https://foundation.opensearch.org/assets/media/OpenSearch%20Project%20Technical%20Charter%20Final%209-13-2024.docx.pdf)
 * Review by a subject matter expert (SME) on the proposal
   * For example, BIG will help contact maintainers from ml-commons repository to review machine learning, neural search, and k-NN related proposals
-* Review the naming, proposal topic, and code (if available) in details
+* Review the naming, proposal topic, and code (if available) in detail
 * If the repository needs to be included in a future OpenSearch Release bundle, ensure a SME from the OpenSearch Release Team reviews the timelines
 * Submit the findings and recommendations to the TSC via email
 

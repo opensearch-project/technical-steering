@@ -6,7 +6,7 @@ The OpenSearch Project, following Technical Steering Committee (TSC) recommendat
 
 ## Responsibilities
 
-* Start an initial review of the new repository's proposal / RFC / Issue (through a [new repository request](https://github.com/opensearch-project/.github/issues/new?template=REPOSITORY_REQUEST_TEMPLATE.yaml) send by the requester)
+* Initiate a review of the new repository's proposal / RFC / Issue through a [new repository request](https://github.com/opensearch-project/.github/issues/new?template=REPOSITORY_REQUEST_TEMPLATE.yaml)
   * Based on [these categories](https://github.com/opensearch-project/.github/issues/296)
 * Ensure new repositories align with the foundation’s [charter](https://foundation.opensearch.org/assets/media/OpenSearch%20Project%20Technical%20Charter%20Final%209-13-2024.docx.pdf)
 * Review by a subject matter expert (SME) on the proposal

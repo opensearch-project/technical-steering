@@ -6,13 +6,13 @@ The OpenSearch Project, following Technical Steering Committee (TSC) recommendat
 
 ## Responsibilities
 
-* Start an initial review of the new repository's proposal / RFC / Issue (through a [new repository request](https://github.com/opensearch-project/.github/issues/new?template=REPOSITORY_REQUEST_TEMPLATE.yaml) sent by the requester)
+* Initiate a review of the new repository's proposal / RFC / Issue through a [new repository request](https://github.com/opensearch-project/.github/issues/new?template=REPOSITORY_REQUEST_TEMPLATE.yaml)
   * Based on [these categories](https://github.com/opensearch-project/.github/issues/296)
 * Ensure new repositories align with the foundation’s [charter](https://foundation.opensearch.org/assets/media/OpenSearch%20Project%20Technical%20Charter%20Final%209-13-2024.docx.pdf)
 * Review by a subject matter expert (SME) on the proposal
-  * For example, BIG will help contact maintainers from ML Commons repository to review machine learning, neural search, and k-NN related proposals
-* Review the naming, proposal topic, and code (if available) in details
-* If the repository needs to be included in a future OpenSearch Release bundle, ensure a SME from the OpenSearch Release Team reviews the timelines
+  * For example, BIG will help contact maintainers from ml-commons repository to review machine learning, neural search, and k-NN related proposals
+* Review the naming, proposal topic, and code (if available) in detail
+* If the repository needs to be included in a future OpenSearch release bundle, ensure a SME from the OpenSearch Release Team reviews the timelines
 * Submit the findings and recommendations to the TSC via email
 
 ## Participation
@@ -43,10 +43,10 @@ We follow the membership guidelines proposed in [SIGs README](README.md) to add 
 
 ## Communications
 
-* The BIG member will be communicating through email to review proposals and discuss feedback
-* All feedbacks will be documented and shared with the community on the original issues / requests raised by the requester
-* The feedback will also be sent to the TSC member through email so TSC members can make a final decision and vote
-* Once voting completed, a TSC member will reply the email chain and update on the original issues / requests raised by the requester
+* The BIG member will communicate through email to review proposals and discuss feedback
+* All feedback will be documented and shared with the community on the original issues / requests raised by the requester
+* The feedback will also be sent to the TSC members through email so TSC members can make a final decision and vote
+* Once voting is completed, a TSC member will reply to the email chain and update on the original issues / requests raised by the requester
 
 ## Members
 | Maintainer         | GitHub ID                                               | Affiliation |

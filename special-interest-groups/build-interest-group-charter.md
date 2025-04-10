@@ -2,11 +2,11 @@
 
 ## Purpose
 
-The OpenSearch Project, following Technical Steering Committee (TSC) recommendations, proposes to create a Build Interest Group (BIG) that focuses on repository health. This includes managing new repository creation, retiring or archiving the existing repositories, monitoring activity in existing repositories, and tracking maintainer status. This group will also establish guidelines for members, set criteria for newly proposed repositories, and come up with recommendations which will be then reviewed by TSC for decision making. The group will provide feedback to the TSC before the final decision is made through a voting of TSC members.
+The OpenSearch Project, following Technical Steering Committee (TSC) recommendations, proposes to create a Build Interest Group (BIG) that focuses on repository health. This includes managing new repository creation, retiring or archiving existing repositories, monitoring activity in existing repositories, and tracking maintainer status. This group will also establish guidelines for members, set criteria for newly proposed repositories, and come up with recommendations which will then be reviewed by TSC for decision making. The group will provide feedback to the TSC before the final decision is made through voting of TSC members.
 
 ## Responsibilities
 
-* Start an initial review of the new repository's proposal / RFC / Issue (through a [new repository request](https://github.com/opensearch-project/.github/issues/new?template=REPOSITORY_REQUEST_TEMPLATE.yaml) send by the requester)
+* Start an initial review of the new repository's proposal / RFC / Issue (through a [new repository request](https://github.com/opensearch-project/.github/issues/new?template=REPOSITORY_REQUEST_TEMPLATE.yaml) sent by the requester)
   * Based on [these categories](https://github.com/opensearch-project/.github/issues/296)
 * Ensure new repositories align with the foundation’s [charter](https://foundation.opensearch.org/assets/media/OpenSearch%20Project%20Technical%20Charter%20Final%209-13-2024.docx.pdf)
 * Review by a subject matter expert (SME) on the proposal

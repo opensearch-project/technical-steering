@@ -21,4 +21,4 @@ We follow the membership guidelines proposed in [SIGs README](../README.md) to a
 - GitHub Team: @opensearch-project/build-interest-group
 
 ## Initiatives
-[BIG Initiatives](https://github.com/opensearch-project/.github/issues?q=is%3Aissue%20state%3Aopen%20label%3Arepository-request)
+[BIG Initiatives](https://github.com/opensearch-project/.github/issues?q=state%3Aopen%20label%3Arepository-request)

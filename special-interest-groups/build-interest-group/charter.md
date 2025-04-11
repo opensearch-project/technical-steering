@@ -37,10 +37,6 @@ The OpenSearch Project, following Technical Steering Committee (TSC) recommendat
     * Release process, infrastructure, system related experts
 * Follow the OpenSearch Software Foundation’s Code of Conduct.
 
-### Membership
-
-We follow the membership guidelines proposed in [SIGs README](README.md) to add / remove / amend / retire members for BIG.
-
 ## Communications
 
 * The BIG member will communicate through email to review proposals and discuss feedback
@@ -48,11 +44,3 @@ We follow the membership guidelines proposed in [SIGs README](README.md) to add 
 * The feedback will also be sent to the TSC members through email so TSC members can make a final decision and vote
 * Once voting is completed, a TSC member will reply to the email chain and update on the original issues / requests raised by the requester
 
-## Members
-| Maintainer         | GitHub ID                                               | Affiliation |
-| ------------------ | ------------------------------------------------------- | ----------- |
-| Michael Froh       | [msfroh](https://github.com/msfroh)                     | Amazon      |
-| Viraj Sanghvi      | [virajsanghvi](https://github.com/virajsanghvi)         | Amazon      |
-| Pan Guixin         | [bugmakerrrrrr](https://github.com/bugmakerrrrrr)       | ByteDance   |
-| Saurabh Singh      | [getsaurabh02](https://github.com/getsaurabh02)         | Amazon      |
-| Peter Zhu          | [peterzhuamazon](https://github.com/peterzhuamazon)     | Amazon      |

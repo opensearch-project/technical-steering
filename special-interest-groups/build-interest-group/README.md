@@ -9,7 +9,7 @@ The Build Interest Group (BIG) overseas the health of OpenSearch repositories by
 
 We follow the membership guidelines proposed in [SIGs README](../README.md) to add / remove / amend / retire members for BIG.
 
-| Maintainer         | GitHub ID                                               | Affiliation |
+| Member             | GitHub ID                                               | Affiliation |
 | ------------------ | ------------------------------------------------------- | ----------- |
 | Michael Froh       | [msfroh](https://github.com/msfroh)                     | Amazon      |
 | Viraj Sanghvi      | [virajsanghvi](https://github.com/virajsanghvi)         | Amazon      |

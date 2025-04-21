@@ -11,7 +11,7 @@ We follow the membership guidelines proposed in [SIGs README](../README.md) to a
 
 | Member             | GitHub ID                                               | Affiliation |
 | ------------------ | ------------------------------------------------------- | ----------- |
-| Michael Froh       | [msfroh](https://github.com/msfroh)                     | Amazon      |
+| Michael Froh       | [msfroh](https://github.com/msfroh)                     | Uber        |
 | Viraj Sanghvi      | [virajsanghvi](https://github.com/virajsanghvi)         | Amazon      |
 | Pan Guixin         | [bugmakerrrrrr](https://github.com/bugmakerrrrrr)       | ByteDance   |
 | Saurabh Singh      | [getsaurabh02](https://github.com/getsaurabh02)         | Amazon      |

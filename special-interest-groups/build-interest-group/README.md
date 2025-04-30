@@ -1,7 +1,7 @@
 # Build Interest Group (BIG)
 
 ## Mission Statement
-The Build Interest Group (BIG) overseas the health of OpenSearch repositories by guiding repository management, aligning project standards, and providing informed recommendations to the TSC.
+The Build Interest Group (BIG) oversees the health of OpenSearch repositories by guiding repository management, aligning project standards, and providing informed recommendations to the TSC.
 
 [Charter](./charter.md)
 

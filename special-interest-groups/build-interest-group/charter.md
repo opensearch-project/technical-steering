@@ -8,7 +8,7 @@ The OpenSearch Project, following Technical Steering Committee (TSC) recommendat
 
 * Initiate a review of the new repository's proposal / RFC / Issue through a [new repository request](https://github.com/opensearch-project/.github/issues/new?template=REPOSITORY_REQUEST_TEMPLATE.yaml)
   * Based on [these categories](https://github.com/opensearch-project/.github/issues/296)
-* Ensure new repositories align with the foundation’s [charter](https://foundation.opensearch.org/assets/media/OpenSearch%20Project%20Technical%20Charter%20Final%209-13-2024.docx.pdf)
+* Ensure new repositories align with the foundation’s [charter](https://opensearch.org/wp-content/uploads/2025/02/OpenSearch-Project-Technical-Charter-Final-9-13-2024.docx.pdf)
 * Review by a subject matter expert (SME) on the proposal
   * For example, BIG will help contact maintainers from ml-commons repository to review machine learning, neural search, and k-NN related proposals
 * Review the naming, proposal topic, and code (if available) in detail

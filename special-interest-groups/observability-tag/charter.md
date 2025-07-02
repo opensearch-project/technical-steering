@@ -2,17 +2,13 @@
 
 ### Purpose
 
-The OpenSearch Project proposes to create a Observability Interest Group that focuses on observability using OpenSearch. This includes logs, traces, metrics, and future signals using OpenSearch. This group will also establish guidelines for members, set architecture guidelines, and come up with recommendations which will then be reviewed by TSC for decision making. The group will provide feedback to the TSC before the final decision is made through voting of TSC members.
+The OpenSearch Observability Technical Advisory Group (TAG) champions the strategic direction and technical guidance for observability solutions within the OpenSearch ecosystem. Our core purpose is to define, advocate for, and spread best practices and architectures that empower users to effectively implement and leverage OpenSearch for their logs, traces, and metrics, ultimately providing informed recommendations to the Technical Steering Committee (TSC).
 
 ### Responsibilities
 
 The following is a non-exhaustive sample list of activities and deliverables that are in-scope for this TAG
 
-1. Provide technical guidance and strategic direction for observability applications using OpenSearch (e.g. ingestion, plugins, Alerting, Anomaly Detection, Dashboards).
-
-    * Conduct review of issues related to observability solutions within the [OpenSearch Observability Catalog](https://github.com/opensearch-project/opensearch-catalog/tree/main), storage for metrics, logs, traces, profiles, as well as ingestion, and plugins such as alerting, anomaly detection, visualization and dashboards
-    * Establish and maintain best practices of observing OpenSearch, including instrumenting OpenSearch, plugins, data prepper with metrics, logs, and traces (e.g., Prometheus exporters, OTLP, Jaeger)for internal health monitoring and debugging.
-    * Get issues and proposal reviewed by a subject matter expert (SME)
+1. Provide technical guidance and strategic direction for observability applications using OpenSearch. Conduct review of issues related to observability using OpenSearch including, but not limited to storage for metrics, logs, traces, profiles; ingestion, visualization, dashboards and plugins such as alerting, anomaly detection, integrations in [OpenSearch Observability Catalog](https://github.com/opensearch-project/opensearch-catalog/tree/main).
 
 2. Align OpenSearch observability initiatives with industry trends, CNCF observability guidelines, and interoperability standards by collaborating with external observability projects (OpenTelemetry, Prometheus, Jaeger, Fluent Bit etc.) to ensure seamless data ingestion, integration, and interoperability. Coordinate with other OpenSearch SIGs and CNCF Operational Resilience TAG.
 

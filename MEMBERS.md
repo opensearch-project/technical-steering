@@ -10,15 +10,15 @@ The current membership of the committee is currently (listed alphabetically by f
 
 | Name                     |     Company      | GitHub                                                   | Term (yrs) |
 | ------------------------ | :--------------: | -------------------------------------------------------- | :--------: |
-| Amitai Stern             |     Logz.io      | [@amistrn](https://github.com/amistrn)                   |     1      |
+| Amitai Stern             |      Meta        | [@amistrn](https://github.com/amistrn)                   |     1      |
 | Anandhi Bumstead (chair) |       AWS        | [@anastead](https://github.com/anastead)                 |     1      |
 | Andrew Ross              |       AWS        | [@andrross](https://github.com/andrross)                 |     2      |
-| Andriy Redko             |      Aiven       | [@reta](https://github.com/reta)                         |     1      |
+| Andriy Redko             |     Shopify      | [@reta](https://github.com/reta)                         |     1      |
 | Austin Lee               |       Aryn       | [@austintlee](https://github.com/austintlee)             |     1      |
 | Bryan Burkholder         | Slack/Salesforce | [@bryanlb](https://github.com/bryanlb)                   |     2      |
 | Daniel Doubrovkine       |       AWS        | [@dblock](https://github.com/dblock)                     |     2      |
 | Eli Fisher               |       AWS        | [@elfisher](https://github.com/elfisher)                 |     1      |
-| Jonah Kowall             |   Independent    | [@jkowall](https://github.com/jkowall)                   |     1      |
+| Jonah Kowall             |     Paessler     | [@jkowall](https://github.com/jkowall)                   |     1      |
 | Karsten Schnitter        |       SAP        | [@KarstenSchnitter](https://github.com/KarstenSchnitter) |     2      |
 | Pallavi Priyadarshini    |       AWS        | [@Pallavi-AWS](https://github.com/Pallavi-AWS)           |     2      |
 | Samuel Herman            |      Oracle      | [@samuel-oci](https://github.com/samuel-oci/)            |     1      |

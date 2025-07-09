@@ -13,7 +13,7 @@ The current membership of the committee is currently (listed alphabetically by f
 | Amitai Stern             |      Meta        | [@amistrn](https://github.com/amistrn)                   |     1      |
 | Anandhi Bumstead (chair) |       AWS        | [@anastead](https://github.com/anastead)                 |     1      |
 | Andrew Ross              |       AWS        | [@andrross](https://github.com/andrross)                 |     2      |
-| Andriy Redko             |     Shopify      | [@reta](https://github.com/reta)                         |     1      |
+| Andriy Redko             |   Independent    | [@reta](https://github.com/reta)                         |     1      |
 | Austin Lee               |       Aryn       | [@austintlee](https://github.com/austintlee)             |     1      |
 | Bryan Burkholder         | Slack/Salesforce | [@bryanlb](https://github.com/bryanlb)                   |     2      |
 | Daniel Doubrovkine       |       AWS        | [@dblock](https://github.com/dblock)                     |     2      |

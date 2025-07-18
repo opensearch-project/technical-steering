@@ -18,6 +18,7 @@ We follow the membership guidelines proposed in [SIGs README](../README.md) to a
 | Dotan Horovits         | [@horovits](https://github.com/horovits)                 | Amazon      |
 | Jonah Kowall           | [@jkowall](https://github.com/jkowall)                   | Paessler    |
 | Karsten Schnitter      | [@KarstenSchnitter](https://github.com/KarstenSchnitter) | SAP         |
-| Jürgen Walter          | [@juergen-walter](https://github.com/juergen-walter).    | SAP         |
+| Mikhail Stepura        | [@Mishail](https://github.com/Mishail)                   | Apple       |
+| Jürgen Walter          | [@juergen-walter](https://github.com/juergen-walter)     | SAP         |
 | Shuyi Zhang            | [@amberzsy](https://github.com/amberzsy)                 | Uber        |
 

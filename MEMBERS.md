@@ -21,7 +21,7 @@ The current membership of the committee is currently (listed alphabetically by f
 | Jonah Kowall             |   Independent    | [@jkowall](https://github.com/jkowall)                   |     1      |
 | Karsten Schnitter        |       SAP        | [@KarstenSchnitter](https://github.com/KarstenSchnitter) |     2      |
 | Pallavi Priyadarshini    |       AWS        | [@Pallavi-AWS](https://github.com/Pallavi-AWS)           |     2      |
-| Samuel Herman            |      Oracle      | [@samuel-oci](https://github.com/samuel-oci/)            |     1      |
+| Samuel Herman            |      IBM      | [@sam-herman](https://github.com/sam-herman/)            |     1      |
 | Shubham Gupta            |       Uber       | [@guptashubham](https://github.com/guptashubham)         |     2      |
 | Yakun Li                 |    Bytedance     | [@yoelee](https://github.com/yoelee)                     |     2      |
 | Yupeng Fu                |       Uber       | [@yupeng9](https://github.com/yupeng9)                   |     2      |

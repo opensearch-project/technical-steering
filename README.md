@@ -16,6 +16,7 @@ The OpenSearch Software Foundation Technical Steering Committee (TSC) aims to up
 The technical steering committee has approved the formation of [SIGs](special-interest-groups/README.md). The following SIGs are active:
 
 - [Build Interest Group (BIG)](special-interest-groups/build-interest-group/)
+- [Observability](special-interest-groups/observability-tag)
 
 ## Contact
 

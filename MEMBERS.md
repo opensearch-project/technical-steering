@@ -10,7 +10,7 @@ The current membership of the committee is currently (listed alphabetically by f
 
 | Name                     |     Company      | GitHub                                                   | Term (yrs) |
 | ------------------------ | :--------------: | -------------------------------------------------------- | :--------: |
-| Amitai Stern             |      Meta        | [@amistrn](https://github.com/amistrn)                   |     1      |
+| Amitai Stern             |   Independent    | [@amistrn](https://github.com/amistrn)                   |     1      |
 | Anandhi Bumstead (chair) |       AWS        | [@anastead](https://github.com/anastead)                 |     1      |
 | Andrew Ross              |       AWS        | [@andrross](https://github.com/andrross)                 |     2      |
 | Andriy Redko             |   Independent    | [@reta](https://github.com/reta)                         |     1      |

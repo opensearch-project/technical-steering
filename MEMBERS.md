@@ -18,7 +18,7 @@ The current membership of the committee is currently (listed alphabetically by f
 | Bryan Burkholder         | Slack/Salesforce | [@bryanlb](https://github.com/bryanlb)                   |     2      |
 | Daniel Doubrovkine       |       AWS        | [@dblock](https://github.com/dblock)                     |     2      |
 | Eli Fisher               |       AWS        | [@elfisher](https://github.com/elfisher)                 |     1      |
-| Jonah Kowall             |   Independent    | [@jkowall](https://github.com/jkowall)                   |     1      |
+| Jonah Kowall             |     Paessler     | [@jkowall](https://github.com/jkowall)                   |     1      |
 | Karsten Schnitter        |       SAP        | [@KarstenSchnitter](https://github.com/KarstenSchnitter) |     2      |
 | Pallavi Priyadarshini    |       AWS        | [@Pallavi-AWS](https://github.com/Pallavi-AWS)           |     2      |
 | Samuel Herman            |      IBM      | [@sam-herman](https://github.com/sam-herman/)            |     1      |

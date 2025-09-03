@@ -21,4 +21,4 @@ We follow the membership guidelines proposed in [SIGs README](../README.md) to a
 | Mikhail Stepura        | [@Mishail](https://github.com/Mishail)                   | Apple       |
 | Jürgen Walter          | [@juergen-walter](https://github.com/juergen-walter)     | SAP         |
 | Shuyi Zhang            | [@amberzsy](https://github.com/amberzsy)                 | Uber        |
-
+| Vinay Bagare           | [@vbagare](https://github.com/vbagare)                   | Apple       |

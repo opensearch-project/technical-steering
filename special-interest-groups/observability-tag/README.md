@@ -11,6 +11,7 @@ We follow the membership guidelines proposed in [SIGs README](../README.md) to a
 
 | Member                 | GitHub ID                                                | Affiliation |
 | ---------------------- | -------------------------------------------------------- | ----------- |
+| Vinay Bagare           | [@vbagare](https://github.com/vbagare)                   | Apple       |
 | Orcun Berkem           | [@oberkem](https://github.com/oberkem)                   | Amazon      |
 | Michael Froh           | [@msfroh](https://github.com/msfroh)                     | Uber        |
 | Yupeng Fu              | [@yupeng9](https://github.com/yupeng9)                   | Uber        |
@@ -21,4 +22,3 @@ We follow the membership guidelines proposed in [SIGs README](../README.md) to a
 | Mikhail Stepura        | [@Mishail](https://github.com/Mishail)                   | Apple       |
 | Jürgen Walter          | [@juergen-walter](https://github.com/juergen-walter)     | SAP         |
 | Shuyi Zhang            | [@amberzsy](https://github.com/amberzsy)                 | Uber        |
-| Vinay Bagare           | [@vbagare](https://github.com/vbagare)                   | Apple       |

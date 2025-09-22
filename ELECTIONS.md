@@ -2,14 +2,14 @@
 
 ## Overview
 
-This document establishes the election procedures for the OpenSearch Technical Steering Committee (TSC) as referenced in Section 3.e of the [OpenSearch Project Technical Charter](https://opensearch.org/wp-content/uploads/2025/02/OpenSearch-Project-Technical-Charter-Final-9-13-2024.docx.pdf). The TSC will hold elections annually to fill expiring terms and maintain continuity of technical oversight for the OpenSearch Project. The committee size includes 15 members.
+This document establishes the election procedures for the OpenSearch Technical Steering Committee (TSC) as referenced in Section 3.e of the [OpenSearch Project Technical Charter](https://opensearch.org/wp-content/uploads/2025/02/OpenSearch-Project-Technical-Charter-Final-9-13-2024.docx.pdf). The TSC will hold elections annually to fill expiring terms and maintain continuity of technical oversight for the OpenSearch Project. The committee size includes 15 members; an odd number required for any voting.
 
 ## Election Timeline
 
 ### Annual Election Schedule
 
-- **End of term**: Facilitator opens a GitHub issue for community nominations for 1 week
-- **Week 1**: Call for nominations opens; exception request period opens
+- **End of term**: Facilitator opens form for community nominations for 2 weeks
+- **Nomination period**: Call for nominations opens; exception request period opens
 - **Prior to next TSC Meeting**: Nominations and exception requests close; candidate statements collected by facilitator
 - **During TSC Meeting**: Voting by current TSC members will take place at next scheduled TSC meeting
 - **Within 3 Days of Vote**: Results announced and certified
@@ -34,7 +34,7 @@ Election Facilitator is responsible for:
 ## Voter Eligibility
 
 ### Primary Eligibility Criteria
-The first voting of new member elections will be held by the TSC. This is to get through the process successfully for its first voting iteration, and to ensure goals of electing new members is completed in a timely manner. This will be amended in the future.
+The first voting of new member elections will be held by the TSC. This is to get through the process successfully for its first voting iteration, and to ensure goals of electing new members is completed in a timely manner.
 
 ## Candidate Eligibility
 
@@ -89,7 +89,7 @@ Election Facilitator will distribute secure electronic ballots to all eligible v
 
 ### Vote Counting
 The Election Facilitator will:
-- Use the Condorcet method to determine winners
+- Use the Condorcet method to determine electees
 - Apply IRV for tiebreaking when necessary
 - Fill available seats with the candidates receiving the highest rankings
 - Apply company representation limits (see below)
@@ -132,7 +132,7 @@ Any eligible voter may appeal election results or procedures by:
 - Providing specific details about alleged irregularities
 - Requesting specific remedies
 
-Election Officers will investigate appeals and may:
+Facilitator will investigate appeals and may:
 - Correct minor procedural issues
 - Extend voting periods for technical problems
 - In extreme cases, recommend a new election to the TSC
@@ -147,7 +147,7 @@ The following will be maintained as public records:
 - This election procedures document
 - Election timeline and announcements
 - Candidate statements and materials
-- Final vote tallies and results
+- Final results
 - Appeals and their resolutions
 
 ### Privacy Protection

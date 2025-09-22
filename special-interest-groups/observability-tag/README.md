@@ -18,6 +18,7 @@ We follow the membership guidelines proposed in [SIGs README](../README.md) to a
 | Shenoy Pratik Gurudatt | [@ps48](https://github.com/ps48)                         | Amazon      |
 | Dotan Horovits         | [@horovits](https://github.com/horovits)                 | Amazon      |
 | Jonah Kowall           | [@jkowall](https://github.com/jkowall)                   | Paessler    |
+| Seth Muthukaruppan     | [@smuthuka](https://github.com/smuthuka)                 | NetApp      |
 | Karsten Schnitter      | [@KarstenSchnitter](https://github.com/KarstenSchnitter) | SAP         |
 | Mikhail Stepura        | [@Mishail](https://github.com/Mishail)                   | Apple       |
 | Jürgen Walter          | [@juergen-walter](https://github.com/juergen-walter)     | SAP         |

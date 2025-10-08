@@ -15,13 +15,18 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | Andriy Redko          | [reta](https://github.com/reta)                         | Independent      |
 | Austin Lee            | [austintlee](https://github.com/austintlee)             | Aryn             |
 | Bryan Burkholder      | [bryanlb](https://github.com/bryanlb)                   | Slack/Salesforce |
-| Daniel Doubrovkine    | [dblock](https://github.com/dblock)                     | Independent      |
 | Eli Fisher            | [elfisher](https://github.com/elfisher)                 | AWS              |
 | Jonah Kowall          | [jkowall](https://github.com/jkowall)                   | Paessler         |
 | Karsten Schnitter     | [KarstenSchnitter](https://github.com/KarstenSchnitter) | SAP              |
 | Kris Freedain         | [krisfreedain](https://github.com/krisfreedain)         | Amazon           |
 | Pallavi Priyadarshini | [Pallavi-AWS](https://github.com/Pallavi-AWS)           | AWS              |
-| Samuel Herman         | [sam-herman](https://github.com/sam-herman/)            | IBM           |
+| Samuel Herman         | [sam-herman](https://github.com/sam-herman/)            | IBM              |
 | Shubham Gupta         | [guptashubham](https://github.com/guptashubham)         | Uber             |
 | Yakun Li              | [yoelee](https://github.com/yoelee)                     | Bytedance        |
 | Yupeng Fu             | [yupeng9](https://github.com/yupeng9)                   | Uber             |
+
+## Emeritus
+
+| Maintainer         | GitHub ID                           | Affiliation |
+| ------------------ | ----------------------------------- | ----------- |
+| Daniel Doubrovkine | [dblock](https://github.com/dblock) | Independent |

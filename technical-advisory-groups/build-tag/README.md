@@ -1,13 +1,13 @@
-# Build Interest Group (BIG)
+# Build Techincal Advisory Group
 
 ## Mission Statement
-The Build Interest Group (BIG) oversees the health of OpenSearch repositories by guiding repository management, aligning project standards, and providing informed recommendations to the TSC.
+The Build TAG oversees the health of OpenSearch repositories by guiding repository management, aligning project standards, and providing informed recommendations to the TSC.
 
 [Charter](./charter.md)
 
 ### Membership
 
-We follow the membership guidelines proposed in [SIGs README](../README.md) to add / remove / amend / retire members for BIG.
+We follow the membership guidelines proposed in [TAGs README](../README.md) to add / remove / amend / retire members for BIG.
 
 | Member             | GitHub ID                                               | Affiliation |
 | ------------------ | ------------------------------------------------------- | ----------- |

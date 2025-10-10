@@ -1,8 +1,8 @@
-# OpenSearch Project Build Interest Group (BIG) Governance Charter
+# OpenSearch Project Build Technical Advistory Group Governance Charter
 
 ## Purpose
 
-The OpenSearch Project, following Technical Steering Committee (TSC) recommendations, proposes to create a Build Interest Group (BIG) that focuses on repository health. This includes managing new repository creation, retiring or archiving existing repositories, monitoring activity in existing repositories, and tracking maintainer status. This group will also establish guidelines for members, set criteria for newly proposed repositories, and come up with recommendations which will then be reviewed by TSC for decision making. The group will provide feedback to the TSC before the final decision is made through voting of TSC members.
+The OpenSearch Project, following Technical Steering Committee (TSC) recommendations, proposes to create a Build Technical Advisory Group that focuses on repository health. This includes managing new repository creation, retiring or archiving existing repositories, monitoring activity in existing repositories, and tracking maintainer status. This group will also establish guidelines for members, set criteria for newly proposed repositories, and come up with recommendations which will then be reviewed by TSC for decision making. The group will provide feedback to the TSC before the final decision is made through voting of TSC members.
 
 ## Responsibilities
 
@@ -10,7 +10,7 @@ The OpenSearch Project, following Technical Steering Committee (TSC) recommendat
   * Based on [these categories](https://github.com/opensearch-project/.github/issues/296)
 * Ensure new repositories align with the foundation’s [charter](https://opensearch.org/wp-content/uploads/2025/02/OpenSearch-Project-Technical-Charter-Final-9-13-2024.docx.pdf)
 * Review by a subject matter expert (SME) on the proposal
-  * For example, BIG will help contact maintainers from ml-commons repository to review machine learning, neural search, and k-NN related proposals
+  * For example, the Build TAG will help contact maintainers from ml-commons repository to review machine learning, neural search, and k-NN related proposals
 * Review the naming, proposal topic, and code (if available) in detail
 * If the repository needs to be included in a future OpenSearch release bundle, ensure a SME from the OpenSearch Release Team reviews the timelines
 * Submit the findings and recommendations to the TSC via email
@@ -39,7 +39,7 @@ The OpenSearch Project, following Technical Steering Committee (TSC) recommendat
 
 ## Communications
 
-* The BIG member will communicate through email to review proposals and discuss feedback
+* The Build TAG member will communicate through email to review proposals and discuss feedback
 * All feedback will be documented and shared with the community on the original issues / requests raised by the requester
 * The feedback will also be sent to the TSC members through email so TSC members can make a final decision and vote
 * Once voting is completed, a TSC member will reply to the email chain and update on the original issues / requests raised by the requester

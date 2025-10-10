@@ -7,7 +7,7 @@ The OpenSearch Observability Technical Advisory Group (TAG) champions the strate
 
 ### Membership
 
-We follow the membership guidelines proposed in [SIGs README](../README.md) to add / remove / amend / retire members for Observability TAG.
+We follow the membership guidelines proposed in [TAGs README](../README.md) to add / remove / amend / retire members for Observability TAG.
 
 | Member                 | GitHub ID                                                | Affiliation |
 | ---------------------- | -------------------------------------------------------- | ----------- |

@@ -11,7 +11,7 @@ The current membership of the committee is currently (listed alphabetically by f
 | Name                     |     Company            | GitHub                                                   | Term (yrs) | Elected |
 | ------------------------ | :--------------:       | -------------------------------------------------------- | :--------: | :-----: |
 | Amitai Stern             |   Independent          | [@amistrn](https://github.com/amistrn)                   |     2      |  2025   |
-| Andrew Ross              |       AWS              | [@andrross](https://github.com/andrross)                 |     2      |  2024   |
+| Andrew Ross (Chair)      |       AWS              | [@andrross](https://github.com/andrross)                 |     2      |  2024   |
 | Bryan Burkholder         | Slack/Salesforce       | [@bryanlb](https://github.com/bryanlb)                   |     2      |  2024   |
 | Eric Pugh                | OpenSource Connections | [@epugh](https://github.com/epugh)                       |     2      |  2025   |
 | Jonah Kowall             |     Paessler           | [@jkowall](https://github.com/jkowall)                   |     2      |  2025   |
@@ -32,7 +32,7 @@ The community manager (Kris Freedain, [@krisfreedain](https://github.com/krisfre
 
 | Name                     |     Company      | GitHub                                                   | Term (yrs)          | Note         |
 | ------------------------ | :--------------: | -------------------------------------------------------- | :---------------:   |------------- |
-| Anandhi Bumstead (chair) |       AWS        | [@anastead](https://github.com/anastead)                 |   1 (2024-2025)     | Chair        |
+| Anandhi Bumstead         |       AWS        | [@anastead](https://github.com/anastead)                 |   1 (2024-2025)     | Chair        |
 | Andriy Redko             |   Independent    | [@reta](https://github.com/reta)                         |   1 (2024-2025)     |              |
 | Austin Lee               |       Aryn       | [@austintlee](https://github.com/austintlee)             |   1 (2024-2025)     |              |
 | Daniel Doubrovkine       |       AWS        | [@dblock](https://github.com/dblock)                     |   2 (2024-2025)     | stepped down |

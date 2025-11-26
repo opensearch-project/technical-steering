@@ -2,14 +2,14 @@
 
 ### Purpose
 
-The OpenSearch Security Technical Advisory Group (TAG) champions the strategic direction and technical guidance for security across the OpenSearch ecosystem. Our core purpose is to define, advocate for, and spread best practices, architectures, and processes that empower users, contributors, maintainers and solution-builders of OpenSearch to design, implement and operate secure systems — ultimately providing informed recommendations to the OpenSearch Software Foundation (OSSF) Technical Steering Committee (TSC).
+The OpenSearch Security Technical Advisory Group (SECTAG) champions the strategic direction and technical guidance for security across the OpenSearch ecosystem. Our core purpose is to define, advocate for, and spread best practices, architectures, and processes that empower users, contributors, maintainers and solution-builders of OpenSearch to design, implement and operate secure systems — ultimately providing informed recommendations to the OpenSearch Software Foundation (OSSF) Technical Steering Committee (TSC).
 
 ### Responsibilities
 
 The following is a non-exhaustive sample list of activities and deliverables that are in-scope for this TAG:
 
 1. Provide technical guidance and strategic direction on security features, practices and implementations across the OpenSearch stack — including, but not limited to: encryption (at rest, in transit), authentication and identity management, role-based access control (RBAC), audit logging, plugin security, cluster hardening and secure defaults.
-2. Shape and maintain the security response process for OpenSearch (for example, improving the process documented in SECURITY.md).
+2. Shape and maintain the security response process for OpenSearch (for example, improving the process documented in [SECURITY.md](https://github.com/opensearch-project/.github/blob/main/SECURITY.md)).
 3. Define, publish and advocate for security best practices across the ecosystem: e.g., dependency management (e.g., use of Mend, Dependabot) and secure development practices.
 4. Review and provide feedback on security-related proposals, RFCs, issues, features or plugins — making explicit the security review process for enabling new features in OpenSearch.
 5. Engage with external security standards, open-source security communities and industry frameworks (for example supply-chain security, cloud-native security, SCA, SBOM, threat modelling) to ensure OpenSearch remains aligned with emerging risks, best practices and interoperability.
@@ -23,7 +23,7 @@ The following is a non-exhaustive sample list of activities and deliverables tha
 
 ### Participation
 
-All participants must adhere to the OSSF Code of Conduct and the TAG’s operational guidelines to foster a respectful, inclusive, and transparent environment.
+All participants must adhere to the [OSSF Code of Conduct](https://openssf.org/community/code-of-conduct/) and the TAG’s operational guidelines to foster a respectful, inclusive, and transparent environment.
 
 #### Eligibility
 
@@ -38,7 +38,7 @@ Members should commit to regular participation (meetings, reviews, discussions),
 
 ### Communications
 
-* Slack channel: #security (or equivalent in OpenSearch Slack workspace)
+* Slack channel: #security-tag (or equivalent in OpenSearch Slack workspace)
 * Meeting cadence: Proposing monthly meetings as a starting point; frequency may be adjusted based on need
 * Mailing list: TBD (to be established)
 * Project board: A dedicated project under the OpenSearch GitHub org (in the Projects area) to track proposals, issues, requests, reviews and TAG deliverables

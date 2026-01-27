@@ -30,7 +30,8 @@ We follow the membership guidelines proposed in [TAGs README](../README.md) to a
 | Charlie Hull           | [@flaxsearch](https://github.com/flaxsearch) | Flax                   |
 | Prashant Tiwari        | [@prashanttct07](https://github.com/prashanttct07) | Community              |
 | Evan Vander Stoep      | [@ev2900](https://github.com/ev2900) | Community              |
-| Sagar Utekar           | [@Sagar2366](https://github.com/Sagar2366) | Community                 |
-| Atri Sharma            | [@atris](https://github.com/atris) | Uber                   |
+| Sagar Utekar           | [@Sagar2366](https://github.com/Sagar2366) | Community              |
+| Atri Sharma            | [@atris](https://github.com/atris) | Apple                  |
+| Marc Handalian         | [@mch2](https://github.com/mch2) | Amazon                 |
 | Monika Leoster         | [@monikaleoster](https://github.com/monikaleoster) | Community              |
 | Vigya Sharma           | [@vigyasharma](https://github.com/vigyasharma) | Amazon                 |

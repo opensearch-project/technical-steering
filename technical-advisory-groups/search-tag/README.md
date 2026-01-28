@@ -26,9 +26,9 @@ We follow the membership guidelines proposed in [TAGs README](../README.md) to a
 | Craig Perkins          | [@cwperks](https://github.com/cwperks) | Amazon                 |
 | John Berryman          | [@JnBrymn](https://github.com/JnBrymn) | Community              |
 | Dima Kan               | [@dimakan-dev](https://github.com/dimakan-dev) | Community              |
-| Doug Turnbull          | [@softwaredoug](https://github.com/softwaredoug) | OpenSource Connections |
+| Doug Turnbull          | [@softwaredoug](https://github.com/softwaredoug) | Community              |
 | Charlie Hull           | [@flaxsearch](https://github.com/flaxsearch) | Flax                   |
-| Prashant Tiwari        | [@prashanttct07](https://github.com/prashanttct07) | Community              |
+| Prashant Agrawal       | [@prashanttct07](https://github.com/prashanttct07) | Amazon                 |
 | Evan Vander Stoep      | [@ev2900](https://github.com/ev2900) | Community              |
 | Sagar Utekar           | [@Sagar2366](https://github.com/Sagar2366) | Community              |
 | Atri Sharma            | [@atris](https://github.com/atris) | Apple                  |

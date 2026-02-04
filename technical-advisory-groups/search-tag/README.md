@@ -25,9 +25,9 @@ We follow the membership guidelines proposed in [TAGs README](../README.md) to a
 | Sam Herman             | [@sam-herman](https://github.com/sam-herman) | Community              |
 | Craig Perkins          | [@cwperks](https://github.com/cwperks) | Amazon                 |
 | John Berryman          | [@JnBrymn](https://github.com/JnBrymn) | Community              |
-| Dima Kan               | [@dimakan-dev](https://github.com/dimakan-dev) | Community              |
+| Dima Kan               | [@dimakan-dev](https://github.com/dimakan-dev) | Aiven              |
 | Doug Turnbull          | [@softwaredoug](https://github.com/softwaredoug) | Community              |
-| Charlie Hull           | [@flaxsearch](https://github.com/flaxsearch) | Flax                   |
+| Charlie Hull           | [@flaxsearch](https://github.com/flaxsearch) | The Search Juggler                   |
 | Prashant Agrawal       | [@prashanttct07](https://github.com/prashanttct07) | Amazon                 |
 | Evan Vander Stoep      | [@ev2900](https://github.com/ev2900) | Community              |
 | Sagar Utekar           | [@Sagar2366](https://github.com/Sagar2366) | Community              |

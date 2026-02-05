@@ -23,7 +23,7 @@ The following is a non-exhaustive sample list of activities and deliverables tha
 
 ### Participation
 
-All participants must adhere to the OpenSearch Software Foundation’s Code of Conduct and the SIG’s operational guidelines to foster a respectful and inclusive environment.
+All participants must adhere to the OpenSearch Software Foundation’s [Code of Conduct](https://github.com/opensearch-project/.github/blob/main/CODE_OF_CONDUCT.md) and the SIG’s operational guidelines to foster a respectful and inclusive environment.
 
 #### Eligibility
 

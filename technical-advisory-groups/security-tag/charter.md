@@ -23,7 +23,7 @@ The following is a non-exhaustive sample list of activities and deliverables tha
 
 ### Participation
 
-All participants must adhere to the [OSSF Code of Conduct](https://openssf.org/community/code-of-conduct/) and the TAG’s operational guidelines to foster a respectful, inclusive, and transparent environment.
+All participants must adhere to the [OSSF Code of Conduct](https://github.com/opensearch-project/.github/blob/main/CODE_OF_CONDUCT.md) and the TAG’s operational guidelines to foster a respectful, inclusive, and transparent environment.
 
 #### Eligibility
 

@@ -35,7 +35,7 @@ The OpenSearch Project, following Technical Steering Committee (TSC) recommendat
     * Securing OpenSearch environments, managing alerts, and compliance with security standards
   * **Release Management**
     * Release process, infrastructure, system related experts
-* Follow the OpenSearch Software Foundation’s Code of Conduct.
+* Follow the OpenSearch Software Foundation’s [Code of Conduct](https://github.com/opensearch-project/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## Communications
 

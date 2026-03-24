@@ -5,17 +5,25 @@ The Build TAG oversees the health of OpenSearch repositories by guiding reposito
 
 [Charter](./charter.md)
 
-### Membership
+### Active Membership
 
 We follow the membership guidelines proposed in [TAGs README](../README.md) to add / remove / amend / retire members for BIG.
 
 | Member             | GitHub ID                                               | Affiliation |
 | ------------------ | ------------------------------------------------------- | ----------- |
 | Michael Froh       | [msfroh](https://github.com/msfroh)                     | Uber        |
-| Viraj Sanghvi      | [virajsanghvi](https://github.com/virajsanghvi)         | Amazon      |
 | Pan Guixin         | [bugmakerrrrrr](https://github.com/bugmakerrrrrr)       | ByteDance   |
+| Mikhail Stepura    | [mishail](https://github.com/mishail)                   | Apple       |
+| Anirudha Jadhav    | [anirudha](https://github.com/anirudha)                 | Amazon      |
 | Saurabh Singh      | [getsaurabh02](https://github.com/getsaurabh02)         | Amazon      |
 | Peter Zhu          | [peterzhuamazon](https://github.com/peterzhuamazon)     | Amazon      |
+
+
+### Former Members
+
+| Member             | GitHub ID                                               | Affiliation |
+| ------------------ | ------------------------------------------------------- | ----------- |
+| Viraj Sanghvi      | [virajsanghvi](https://github.com/virajsanghvi)         | Amazon      |
 
 ## Contact
 - GitHub Team: @opensearch-project/build-interest-group

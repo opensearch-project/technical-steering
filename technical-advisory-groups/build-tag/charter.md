@@ -13,7 +13,9 @@ The OpenSearch Project, following Technical Steering Committee (TSC) recommendat
   * For example, the Build TAG will help contact maintainers from ml-commons repository to review machine learning, neural search, and k-NN related proposals
 * Review the naming, proposal topic, and code (if available) in detail
 * If the repository needs to be included in a future OpenSearch release bundle, ensure a SME from the OpenSearch Release Team reviews the timelines
-* Submit the findings and recommendations to the TSC via email
+* Build TAG team members will vote by commenting on the related issue with +1 (approve) or -1 (reject)
+* A decision requires a majority vote (more than half of existing members voting +1) with no -1 votes, within one week
+* Submit the findings and recommendations to the TSC via email only if there are questions that require TSC clarification
 
 ## Participation
 

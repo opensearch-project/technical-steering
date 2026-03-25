@@ -21,9 +21,9 @@ We follow the membership guidelines proposed in [TAGs README](../README.md) to a
 
 ### Former Members
 
-| Member             | GitHub ID                                               | Affiliation |
-| ------------------ | ------------------------------------------------------- | ----------- |
-| Viraj Sanghvi      | [virajsanghvi](https://github.com/virajsanghvi)         | Amazon      |
+| Member             | GitHub ID                                               |
+| ------------------ | ------------------------------------------------------- |
+| Viraj Sanghvi      | [virajsanghvi](https://github.com/virajsanghvi)         |
 
 ## Contact
 - GitHub Team: @opensearch-project/build-interest-group

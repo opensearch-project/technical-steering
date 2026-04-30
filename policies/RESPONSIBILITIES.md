@@ -27,11 +27,11 @@
 
 ## Overview
 
-This document explains who maintainers are, what they do in various repos of opensearch-project, and how they should be doing it. If you're interested in contributing, see [CONTRIBUTING](CONTRIBUTING.md).
+This document explains who maintainers are, what they do in various repos of opensearch-project, and how they should be doing it. If you're interested in contributing, see [CONTRIBUTING](https://github.com/opensearch-project/.github/blob/main/CONTRIBUTING.md).
 
 ## Current Maintainers
 
-Each repo contains a [MAINTAINERS.md](MAINTAINERS.md) file that lists current maintainers, and points to this document.
+Each repo contains a [MAINTAINERS.md](https://github.com/opensearch-project/.github/blob/main/MAINTAINERS.md) file that lists current maintainers, and points to this document.
 
 ## Maintainer Responsibilities
 
@@ -39,13 +39,13 @@ Maintainers are active and visible members of the community, and have [maintain-
 
 ### Uphold Code of Conduct
 
-Model the behavior set forward by the [Code of Conduct](CODE_OF_CONDUCT.md) and raise any violations to other maintainers and [members of the admin team](https://github.com/opensearch-project/.github/blob/main/ADMINS.md).
+Model the behavior set forward by the [Code of Conduct](https://github.com/opensearch-project/.github/blob/main/CODE_OF_CONDUCT.md) and raise any violations to other maintainers and [members of the admin team](https://github.com/opensearch-project/.github/blob/main/ADMINS.md).
 
 ### Prioritize Security
 
 Security is your number one priority. Maintainer's Github keys must be password protected securely and any reported security vulnerabilities are addressed before features or bugs.
 
-Note that this repository is monitored and OpenSearch Security Team, see [Reporting a Vulnerability](SECURITY.md) for details.
+Note that this repository is monitored and OpenSearch Security Team, see [Reporting a Vulnerability](https://github.com/opensearch-project/.github/blob/main/SECURITY.md) for details.
 
 ### Review Pull Requests
 
@@ -76,11 +76,11 @@ All repositories in this organization have a standard set of labels, including `
 
 Use labels to target an issue or a PR for a given release, add `help wanted` to good issues for new community members, and `blocker` for issues that scare you or need immediate attention. Request for more information from a submitter if an issue is not clear. Create new labels as needed by the project.
 
-See [TRIAGING](TRIAGING.md) for more information on how to attend triage meetings.
+See [TRIAGING](https://github.com/opensearch-project/.github/blob/main/TRIAGING.md) for more information on how to attend triage meetings.
 
 #### Automatically Label Issues
 
-There are many tools available in GitHub for controlling labels on issues and pull requests.  Use standard issue templates in the [./.github/ISSUE_TEMPLATE](./.github/ISSUE_TEMPLATE) directory to apply appropriate labels such as `bug` and `untriaged`.  Repositories can choose to use GitHub actions such as [add-untriaged.yml](./.github/workflows/add-untriaged.yml) to apply labels automatically.
+There are many tools available in GitHub for controlling labels on issues and pull requests.  Use standard issue templates in the [./.github/ISSUE_TEMPLATE](https://github.com/opensearch-project/.github/blob/main/.github/ISSUE_TEMPLATE) directory to apply appropriate labels such as `bug` and `untriaged`.  Repositories can choose to use GitHub actions such as [add-untriaged.yml](https://github.com/opensearch-project/.github/blob/main/.github/workflows/add-untriaged.yml) to apply labels automatically.
 
 ### Be Responsive
 
@@ -114,7 +114,7 @@ Make frequent project releases to the community.
 
 ### Promote Other Maintainers
 
-Assist, add, and remove [MAINTAINERS](MAINTAINERS.md). Exercise good judgement, and propose high quality contributors to become co-maintainers. See [Becoming a Maintainer](#becoming-a-maintainer) for more information.
+Assist, add, and remove [MAINTAINERS](https://github.com/opensearch-project/.github/blob/main/MAINTAINERS.md). Exercise good judgement, and propose high quality contributors to become co-maintainers. See [Becoming a Maintainer](#becoming-a-maintainer) for more information.
 
 ### Describe the Repo
 
@@ -122,7 +122,7 @@ Make sure the repo has a well-written, accurate, and complete description. See [
 
 ## Becoming a Maintainer
 
-You can become a maintainer by actively [contributing](CONTRIBUTING.md) to any project, and being nominated by an existing maintainer. Past nominations can give a good sense of the body of work required to become a maintainer for a given repository. This data is publicly shared in each pull request that adds a new maintainer, and examples can be easily found by looking at the [commit history of the MAINTAINERS.md file](https://github.com/opensearch-project/OpenSearch/commits/main/MAINTAINERS.md) of the relevant repository.
+You can become a maintainer by actively [contributing](https://github.com/opensearch-project/.github/blob/main/CONTRIBUTING.md) to any project, and being nominated by an existing maintainer. Past nominations can give a good sense of the body of work required to become a maintainer for a given repository. This data is publicly shared in each pull request that adds a new maintainer, and examples can be easily found by looking at the [commit history of the MAINTAINERS.md file](https://github.com/opensearch-project/OpenSearch/commits/main/MAINTAINERS.md) of the relevant repository.
 
 ### Nomination
 
@@ -164,4 +164,4 @@ If the repo is left without any maintainers, either by maintainer inactivity or 
 
 ### Negative Impact on the Project
 
-Actions that negatively impact the project will be handled by the [members of the admin team](https://github.com/opensearch-project/.github/blob/main/ADMINS.md), in coordination with other maintainers, in balance with the urgency of the issue. Examples would be [Code of Conduct](CODE_OF_CONDUCT.md) violations, deliberate harmful or malicious actions, and security risks.
+Actions that negatively impact the project will be handled by the [members of the admin team](https://github.com/opensearch-project/.github/blob/main/ADMINS.md), in coordination with other maintainers, in balance with the urgency of the issue. Examples would be [Code of Conduct](https://github.com/opensearch-project/.github/blob/main/CODE_OF_CONDUCT.md) violations, deliberate harmful or malicious actions, and security risks.

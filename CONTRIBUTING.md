@@ -45,9 +45,7 @@ Looking at the existing issues is a great way to find something to contribute on
 
 
 ## Code of Conduct
-This project has adopted the [Amazon Open Source Code of Conduct](https://aws.github.io/code-of-conduct).
-For more information see the [Code of Conduct FAQ](https://aws.github.io/code-of-conduct-faq) or contact
-opensource-codeofconduct@amazon.com with any additional questions or comments.
+This project has adopted the [OpenSearch Software Foundation Code of Conduct](https://github.com/opensearch-project/.github/blob/main/CODE_OF_CONDUCT.md). Copyright OpenSearch Contributors. See [NOTICE](https://github.com/opensearch-project/.github/blob/main/NOTICE.txt) for details. OpenSearch is a registered trademark of The Linux Foundation.
 
 
 ## Security issue notifications

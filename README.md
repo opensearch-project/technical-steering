@@ -17,6 +17,8 @@ The technical steering committee has approved the formation of [TAGs](technical-
 
 - [Build](technical-advisory-groups/build-tag/)
 - [Observability](technical-advisory-groups/observability-tag)
+- [Search](technical-advisory-groups/search-tag)
+- [Security](technical-advisory-groups/security-tag)
 
 ## Contact
 

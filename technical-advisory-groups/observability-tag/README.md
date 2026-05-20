@@ -22,3 +22,4 @@ We follow the membership guidelines proposed in [TAGs README](../README.md) to a
 | Mikhail Stepura        | [@Mishail](https://github.com/Mishail)                   | Apple       |
 | Jürgen Walter          | [@juergen-walter](https://github.com/juergen-walter)     | SAP         |
 | Shuyi Zhang            | [@amberzsy](https://github.com/amberzsy)                 | Uber        |
+| Anirudha Jadhav        | [@anirudha](https://github.com/anirudha)                 | Amazon      |

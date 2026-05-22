@@ -35,3 +35,5 @@ We follow the membership guidelines proposed in [TAGs README](../README.md) to a
 | Marc Handalian         | [@mch2](https://github.com/mch2) | Amazon                 |
 | Monika Leoster         | [@monikaleoster](https://github.com/monikaleoster) | Community              |
 | Vigya Sharma           | [@vigyasharma](https://github.com/vigyasharma) | Amazon                 |
+| Trey Grainger           | [@treygrainger](https://github.com/treygrainger) | SearchKernel                 |
+| Dom Cauldwell           |  | IBM                 |

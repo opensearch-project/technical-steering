@@ -20,6 +20,7 @@ Once a repository is considered orphaned, the following steps are taken:
    - The community/TSC member who proposed the candidate in step 2 shares with the TSC the name and background of the potential candidate.
    - A member of the TSC has a discussion with the candidate about the responsibilities of being a maintainer.
    - Assuming positive feedback, a ticket is opened with the OpenSearch Project admins similar to [[GitHub Request] Add github.com/synhershko as a maintainer of opensearch-k8s-operator](https://github.com/opensearch-project/.github/issues/405).
+   - A member of the TSC opens the PR in the repo for updating `CODEOWNERS.md` and `MAINTAINERS.md` similar to [Add SamuelCox nomination](https://github.com/opensearch-project/opensearch-net/pull/960).
 6. Once the new maintainer(s) have been added, the original issue in the `technical-steering` repo is closed.
 
 

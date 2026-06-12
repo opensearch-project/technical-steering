@@ -36,7 +36,7 @@ When a maintainer has become inactive without moving themselves to Emeritus, the
 
 Inactivity is identified via the [OpenSearch Maintainer Dashboard](https://metrics.opensearch.org/_dashboards/app/dashboards?security_tenant=global#/view/30fedc30-9ae2-11ef-a168-f19b1bbc360c?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-30d,to:now))&_a=(description:'Shows%20data%20about%20the%20activity%20of%20maintainers%20in%20the%20OpenSearch%20Project(since%2010-12-24,%20and%20the%20technical-steering%20repo%20since%2011-7-24).%20',filters:!(),fullScreenMode:!f,options:(hidePanelTitles:!f,useMargins:!t),query:(language:kuery,query:''),timeRestore:!t,title:'OpenSearch%20Maintainer%20Dashboard',viewMode:view)).
 
-__Open question: should the inactivity threshold used here be defined in the same place as the Active/Inactive criteria used by the At-Risk policy), so there is a single source of truth?__
+The dashboard labels a maintainer with status 'Inactive' if they have no activity in the repository in the past year.
 
 ### Outreach
 

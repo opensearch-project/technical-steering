@@ -10,7 +10,7 @@ This document explains how we identify repositories that do not have sufficient 
 
 Active maintainers provide the governance structure for each repository.  Identifying if a repo is At Risk is determined via the [OpenSearch Maintainer Dashboard](https://metrics.opensearch.org/_dashboards/app/dashboards?security_tenant=global#/view/30fedc30-9ae2-11ef-a168-f19b1bbc360c?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-30d,to:now))&_a=(description:'Shows%20data%20about%20the%20activity%20of%20maintainers%20in%20the%20OpenSearch%20Project(since%2010-12-24,%20and%20the%20technical-steering%20repo%20since%2011-7-24).%20',filters:!(),fullScreenMode:!f,options:(hidePanelTitles:!f,useMargins:!t),query:(language:kuery,query:''),timeRestore:!t,title:'OpenSearch%20Maintainer%20Dashboard',viewMode:view)).
 
-__Do we need to document what it does to determine Active/Inactive??   Yes we do..  How does the Dashboard determine this?  Do we need to think about the timeframe for Active/Inactive?__
+The dashboard labels a maintainer with status 'Inactive' if they have no activity in the repository in the past year.
 
 If less than three maintainers are active, then the repository is considered At Risk.
 

@@ -5,6 +5,11 @@ The OpenSearch Observability Technical Advisory Group (TAG) champions the strate
 
 [Charter](./charter.md)
 
+### TAG Slack Channel and Meetings
+The TAG meetings are open for all to attend. They take place over Zoom and are published over The Linux Foundation's [LFX Meetings public calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/os-tag-observability?view=week). The meeting agenda and minutes are maintained on this public [meeting document](https://docs.google.com/document/d/1z6HNcre6UqU3GYkFAyDoThf0H16G43lel8QkLzQbuZ4/edit?usp=sharing).
+
+Further discussions take place on the OpenSearch community slack under the __#observability__ channel.
+
 ### Membership
 
 We follow the membership guidelines proposed in [TAGs README](../README.md) to add / remove / amend / retire members for Observability TAG.

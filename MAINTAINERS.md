@@ -15,7 +15,7 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | Eric Pugh             | [epugh](https://github.com/epugh)                       | OpenSource Connections |
 | Jonah Kowall          | [jkowall](https://github.com/jkowall)                   | Paessler         |
 | Karsten Schnitter     | [KarstenSchnitter](https://github.com/KarstenSchnitter) | SAP              |
-| Michael Froh          | [msfroh](https://github.com/msfroh)                     | Uber             |
+| Michael Froh          | [msfroh](https://github.com/msfroh)                     | Apple            |
 | Mikhail Stepura       | [Mishail](https://github.com/Mishail)                   | Apple            |
 | Nils Bandener         | [nibix](https://github.com/nibix/)                      | Eliatra          |
 | Kris Freedain         | [krisfreedain](https://github.com/krisfreedain)         | Amazon           |

@@ -16,7 +16,7 @@ The current membership of the committee is currently (listed alphabetically by f
 | Eric Pugh                | OpenSource Connections | [@epugh](https://github.com/epugh)                       |     2      |  2025   |
 | Jonah Kowall             |     Paessler           | [@jkowall](https://github.com/jkowall)                   |     2      |  2025   |
 | Karsten Schnitter        |       SAP              | [@KarstenSchnitter](https://github.com/KarstenSchnitter) |     2      |  2024   |
-| Michael Froh             |       Uber             | [@msfroh](https://github.com/msfroh)                     |     2      |  2025   |
+| Michael Froh             |       Apple            | [@msfroh](https://github.com/msfroh)                     |     2      |  2025   |
 | Mikhail Stepura          |       Apple            | [@Mishail](https://github.com/Mishail)                   |     2      |  2025   |
 | Nils Bandener            |       Eliatra          | [@nibix](https://github.com/nibix/)                      |     2      |  2025   |
 | Pallavi Priyadarshini    |       AWS              | [@Pallavi-AWS](https://github.com/Pallavi-AWS)           |     2      |  2024   |

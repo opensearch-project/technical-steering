@@ -24,7 +24,7 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | Samuel Herman         | [sam-herman](https://github.com/sam-herman/)            | IBM              |
 | Shubham Gupta         | [guptashubham](https://github.com/guptashubham)         | Uber             |
 | Yakun Li              | [yoelee](https://github.com/yoelee)                     | Bytedance        |
-| Yupeng Fu             | [yupeng9](https://github.com/yupeng9)                   | Uber             |
+| Yupeng Fu             | [yupeng9](https://github.com/yupeng9)                   | Apple            |
 
 ## Emeritus
 

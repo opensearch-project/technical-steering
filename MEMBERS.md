@@ -24,7 +24,7 @@ The current membership of the committee is currently (listed alphabetically by f
 | Samuel Herman            |      IBM               | [@sam-herman](https://github.com/sam-herman/)            |     2      |  2025   |
 | Shubham Gupta            |       Uber             | [@guptashubham](https://github.com/guptashubham)         |     2      |  2024   |
 | Yakun Li                 |    Bytedance           | [@yoelee](https://github.com/yoelee)                     |     2      |  2024   |
-| Yupeng Fu                |       Uber             | [@yupeng9](https://github.com/yupeng9)                   |     2      |  2024   |
+| Yupeng Fu                |       Apple            | [@yupeng9](https://github.com/yupeng9)                   |     2      |  2024   |
 
 The community manager (Kris Freedain, [@krisfreedain](https://github.com/krisfreedain)) facilitates the TSC forums and related activities.
 

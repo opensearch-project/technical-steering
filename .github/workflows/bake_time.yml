@@ -14,7 +14,7 @@ jobs:
     name: "Baking pull request..."
     runs-on: ubuntu-latest
     steps:
-      - uses: peternied/bake-time@9b5f238efbc819d822ad770c7cf9b90ebbffa450 # v3.3
+      - uses: peternied/bake-time@1a01d1e993bcaeba380d7ec84340c64fc586a754
         with:
           check-name: "Baking pull request..."
           delay-hours: 48

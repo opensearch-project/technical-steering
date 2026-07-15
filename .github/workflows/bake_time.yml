@@ -9,6 +9,9 @@ on:
   schedule:
     - cron: "0 */1 * * *" # Runs every 1 hour
 
+permissions:
+  checks: write
+
 jobs:
   baking_pull_request:
     name: "Baking pull request..."

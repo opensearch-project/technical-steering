@@ -18,8 +18,8 @@ We follow the membership guidelines proposed in [TAGs README](../README.md) to a
 | ---------------------- | -------------------------------------------------------- | ----------- |
 | Vinay Bagare           | [@vbagare](https://github.com/vbagare)                   | Apple       |
 | Orcun Berkem           | [@oberkem](https://github.com/oberkem)                   | Amazon      |
-| Michael Froh           | [@msfroh](https://github.com/msfroh)                     | Uber        |
-| Yupeng Fu              | [@yupeng9](https://github.com/yupeng9)                   | Uber        |
+| Michael Froh           | [@msfroh](https://github.com/msfroh)                     | Apple       |
+| Yupeng Fu              | [@yupeng9](https://github.com/yupeng9)                   | Apple       |
 | Shenoy Pratik Gurudatt | [@ps48](https://github.com/ps48)                         | Amazon      |
 | Dotan Horovits         | [@horovits](https://github.com/horovits)                 | Amazon      |
 | Jonah Kowall           | [@jkowall](https://github.com/jkowall)                   | Paessler    |

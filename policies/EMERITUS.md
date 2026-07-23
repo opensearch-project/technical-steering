@@ -45,10 +45,11 @@ The dashboard labels a maintainer with status 'Inactive' if they have no activit
 An existing maintainer or a member of the admin team opens a PR moving the inactive maintainer to emeritus in MAINTAINERS.md and removing from CODEOWNERS with the comment:
 
 ```
-Hey @inactive-maintainer, we see you haven't used your maintainer privileges in the (past year)[https://metrics.opensearch.org/_dashboards/app/dashboards?security_tenant=global#/view/30fedc30-9ae2-11ef-a168-f19b1bbc360c?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-30d,to:now))&_a=(description:'Shows%20data%20about%20the%20activity%20of%20maintainers%20in%20the%20OpenSearch%20Project(since%2010-12-24,%20and%20the%20technical-steering%20repo%20since%2011-7-24).%20',filters:!(),fullScreenMode:!f,options:(hidePanelTitles:!f,useMargins:!t),query:(language:kuery,query:''),timeRestore:!t,title:'OpenSearch%20Maintainer%20Dashboard',viewMode:view)] for this repo. If you plan on continuing to contribute, please respond here and close this PR. Otherwise, per our (inactivity policy)[https://github.com/opensearch-project/technical-steering/blob/main/policies/RESPONSIBILITIES.md#inactivity] you'll be moved to emeritus, but you can move back to active status at any time.
+Hey @inactive-maintainer, we see you haven't used your maintainer privileges in the [past year](https://metrics.opensearch.org/_dashboards/app/dashboards?security_tenant=global#/view/30fedc30-9ae2-11ef-a168-f19b1bbc360c?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-30d,to:now))&_a=(description:'Shows%20data%20about%20the%20activity%20of%20maintainers%20in%20the%20OpenSearch%20Project(since%2010-12-24,%20and%20the%20technical-steering%20repo%20since%2011-7-24).%20',filters:!(),fullScreenMode:!f,options:(hidePanelTitles:!f,useMargins:!t),query:(language:kuery,query:''),timeRestore:!t,title:'OpenSearch%20Maintainer%20Dashboard',viewMode:view)) for this repo. 
+If you plan on continuing to contribute, please respond here and close this PR. Otherwise, per our [inactivity policy](https://github.com/opensearch-project/technical-steering/blob/main/policies/RESPONSIBILITIES.md#inactivity) you'll be moved to emeritus, but you can move back to active status at any time.
 ```
 
-Here (is an example PR)[https://github.com/opensearch-project/OpenSearch/pull/21144].
+Here [is an example PR]([https://github.com/opensearch-project/OpenSearch/pull/21144).
 
 If, after seven days, there is no reply to the PR, then an existing maintainer or member of the admin team merges the PR.
 

@@ -1,9 +1,8 @@
 - [Overview](#overview)
-- [Self-Initiated: Moving On](#self-initiated-moving-on)
-- [External: Inactivity](#external-inactivity)
+- [Moving On](#moving-on)
+- [Inactivity](#inactivity)
   - [Identifying Inactivity](#identifying-inactivity)
   - [Outreach](#outreach)
-  - [Moving to Emeritus](#moving-to-emeritus)
 - [Reinstatement](#reinstatement)
 - [Relationship to At-Risk Status](#relationship-to-at-risk-status)
 
@@ -49,7 +48,7 @@ Hey @inactive-maintainer, we see you haven't used your maintainer privileges in 
 If you plan on continuing to contribute, please respond here and close this PR. Otherwise, per our [inactivity policy](https://github.com/opensearch-project/technical-steering/blob/main/policies/RESPONSIBILITIES.md#inactivity) you'll be moved to emeritus, but you can move back to active status at any time.
 ```
 
-Here [is an example PR]([https://github.com/opensearch-project/OpenSearch/pull/21144).
+Here [is an example PR](https://github.com/opensearch-project/OpenSearch/pull/21144).
 
 If, after seven days, there is no reply to the PR, then an existing maintainer or member of the admin team merges the PR.
 

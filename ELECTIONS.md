@@ -34,7 +34,10 @@ Election Facilitator is responsible for:
 ## Voter Eligibility
 
 ### Primary Eligibility Criteria
-The first voting of new member elections will be held by the TSC. This is to get through the process successfully for its first voting iteration, and to ensure goals of electing new members is completed in a timely manner.
+To be eligible to vote, individuals must: 
+- Be listed as a 'Current Maintainer' within at least one repository within the OpenSearch org throughout the voting time-period
+- Be responsible for reading the entirety of candidates submissions and take into account all criteria to judge eligibility and technical leadership
+- Emeritus are no longer active in the project and therefore unable to vote
 
 ## Candidate Eligibility
 
@@ -84,7 +87,7 @@ Election Facilitator will distribute secure electronic ballots to all eligible v
 - Accessibility for all eligible voters
 
 ### Voting Period
-- Minimum voting period: During a scheduled TSC meeting
+- Minimum voting period: 1 week
 - Voting period will be clearly communicated and may be extended only for technical issues
 
 ### Vote Counting

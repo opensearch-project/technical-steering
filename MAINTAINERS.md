@@ -13,7 +13,7 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | Andrew Ross           | [andrross](https://github.com/andrross)                 | AWS              |
 | Bryan Burkholder      | [bryanlb](https://github.com/bryanlb)                   | Slack/Salesforce |
 | Eric Pugh             | [epugh](https://github.com/epugh)                       | OpenSource Connections |
-| Jonah Kowall          | [jkowall](https://github.com/jkowall)                   | Paessler         |
+| Jonah Kowall          | [jkowall](https://github.com/jkowall)                   | Spacelift        |
 | Karsten Schnitter     | [KarstenSchnitter](https://github.com/KarstenSchnitter) | SAP              |
 | Michael Froh          | [msfroh](https://github.com/msfroh)                     | Apple            |
 | Mikhail Stepura       | [Mishail](https://github.com/Mishail)                   | Apple            |

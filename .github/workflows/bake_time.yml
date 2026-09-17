@@ -11,6 +11,7 @@ on:
 
 permissions:
   checks: write
+  pull-requests: read
 
 jobs:
   baking_pull_request:

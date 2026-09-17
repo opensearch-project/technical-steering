@@ -14,7 +14,7 @@ The current membership of the committee is currently (listed alphabetically by f
 | Andrew Ross (Chair)      |       AWS              | [@andrross](https://github.com/andrross)                 |     2      |  2024   |
 | Bryan Burkholder         | Slack/Salesforce       | [@bryanlb](https://github.com/bryanlb)                   |     2      |  2024   |
 | Eric Pugh                | OpenSource Connections | [@epugh](https://github.com/epugh)                       |     2      |  2025   |
-| Jonah Kowall             |     Paessler           | [@jkowall](https://github.com/jkowall)                   |     2      |  2025   |
+| Jonah Kowall             |     Spacelift          | [@jkowall](https://github.com/jkowall)                   |     2      |  2025   |
 | Karsten Schnitter        |       SAP              | [@KarstenSchnitter](https://github.com/KarstenSchnitter) |     2      |  2024   |
 | Michael Froh             |       Apple            | [@msfroh](https://github.com/msfroh)                     |     2      |  2025   |
 | Mikhail Stepura          |       Apple            | [@Mishail](https://github.com/Mishail)                   |     2      |  2025   |

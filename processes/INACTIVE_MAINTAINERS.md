@@ -1,13 +1,15 @@
+# Inactive Maintainers
+
+This document specifies the process for implementing the [maintainer inactivity policy](../policies/RESPONSIBILITIES.md#inactivity)
 
 ## Process
 
 1. Find inactive maintainers using [metrics dashboard](https://metrics.opensearch.org/_dashboards/app/dashboards#/view/30fedc30-9ae2-11ef-a168-f19b1bbc360c)
 1. Filter out archived repos
 1. Filter out known "low activity" repos <INSERT LIST HERE>
-1. Open a PR using the template text below
+1. Open a PR using the template text below that removes them from CODEOWNERS file and updates their row in MAINTAINERS.md to be Emeritus
 1. Wait seven days
-1. Close or merge the PR per the instructions in the template text
-
+1. Admin team will merge the PR per the instructions in the template text unless the maintainer has responded or another maintainer has intervened.
 
 ## PR Title Text
 ```

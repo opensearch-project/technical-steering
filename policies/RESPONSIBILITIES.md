@@ -114,7 +114,7 @@ Make frequent project releases to the community.
 
 ### Promote Other Maintainers
 
-Assist, add, and remove [MAINTAINERS](https://github.com/opensearch-project/.github/blob/main/MAINTAINERS.md). Exercise good judgement, and propose high quality contributors to become co-maintainers. See [Becoming a Maintainer](#becoming-a-maintainer) for more information.
+Assist, add, and remove [MAINTAINERS](https://github.com/opensearch-project/.github/blob/main/MAINTAINERS.md). Exercise good judgement, and propose high quality contributors to become co-maintainers. Guide contributors through the [contribution ladder](CONTRIBUTION_LADDER.md). See [Becoming a Maintainer](#becoming-a-maintainer) for more information.
 
 ### Describe the Repo
 

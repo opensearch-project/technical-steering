@@ -54,7 +54,7 @@ Members are active contributors who have been granted membership in the [opensea
 
 ### Becoming a Member
 
-1. The candidate opens an issue in the [.github](https://github.com/opensearch-project/.github) repository using the organization membership request template, listing their contributions (links to merged pull requests, reviews, triage participation, etc.) and naming their sponsor.
+1. The candidate opens an issue in the [.github](https://github.com/opensearch-project/.github) repository using the "GitHub Request" template with "Organization Membership" as the request type, listing their contributions (links to merged pull requests, reviews, triage participation, etc.) and naming their sponsor.
 2. The sponsoring maintainer confirms the sponsorship by commenting (+1) on the issue.
 3. If the requirements are met, the [members of the admin team](https://github.com/opensearch-project/.github/blob/main/ADMINS.md) invite the candidate to the GitHub organization, add them to the [triage team](https://github.com/orgs/opensearch-project/teams/triage) and close the issue.
 

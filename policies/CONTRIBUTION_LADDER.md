@@ -22,7 +22,7 @@ Roles are not permanent. Contributors step up and step back as their circumstanc
 | Role | Responsibilities | Requirements | Defined by |
 |---|---|---|---|
 | Public | Comment on issues and pull requests, review pull requests, create pull requests, create issues | None | GitHub account |
-| Member | Active contributor: triage issues, manage labels, assign issues | Demonstrated activity, plus sponsorship from a maintainer | opensearch-project GitHub organization membership |
+| Member | Active contributor: triage issues, manage labels, assign issues | Sponsorship from a maintainer | opensearch-project GitHub organization membership |
 | Maintainer | Approve and merge pull requests, set technical direction within a repository | Each repo models its own definition of the required body of work, see [RESPONSIBILITIES.md](RESPONSIBILITIES.md) | Entry in the repository's MAINTAINERS.md file |
 
 Former maintainers are recognized as [Emeritus Maintainers](#emeritus-maintainer).
@@ -43,8 +43,7 @@ Members are active contributors who have been granted membership in the [opensea
 
 ### Requirements
 
-- **Demonstrated activity** in one or more repositories of the organization. Examples include merged pull requests, high-quality issue reports and reproductions, code reviews, participation in issue triage, and documentation improvements. There is no fixed quota; the body of work should show sustained, constructive engagement rather than a single contribution.
-- **Sponsorship from one maintainer** of a repository the candidate has contributed to. The sponsor vouches for the candidate's contributions and adherence to the [Code of Conduct](https://github.com/opensearch-project/.github/blob/main/CODE_OF_CONDUCT.md).
+- **Sponsorship from one maintainer** of the candidate. The sponsor vouches for the candidate's interest in the project and adherence to the [Code of Conduct](https://github.com/opensearch-project/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ### Privileges
 
@@ -54,15 +53,14 @@ Members are active contributors who have been granted membership in the [opensea
 
 ### Becoming a Member
 
-1. The candidate opens an issue in the [.github](https://github.com/opensearch-project/.github) repository using the "GitHub Request" template with "Organization Membership" as the request type, listing their contributions (links to merged pull requests, reviews, triage participation, etc.) and naming their sponsor.
-2. The sponsoring maintainer confirms the sponsorship by commenting (+1) on the issue.
-3. If the requirements are met, the [members of the admin team](https://github.com/opensearch-project/.github/blob/main/ADMINS.md) invite the candidate to the GitHub organization, add them to the [triage team](https://github.com/orgs/opensearch-project/teams/triage) and close the issue.
+1. The sponsor opens an issue in the [.github](https://github.com/opensearch-project/.github) repository using the "GitHub Request" template with "Organization Membership" as the request type and vouching for the new member.
+2. If the requirements are met, the [members of the admin team](https://github.com/opensearch-project/.github/blob/main/ADMINS.md) invite the candidate to the GitHub organization, add them to the [triage team](https://github.com/orgs/opensearch-project/teams/triage) and close the issue.
 
-If a request is declined, the admin team notes the reason on the issue. Candidates are welcome to reapply after addressing the feedback.
+If a request is declined, the admin team notes the reason on the issue. Sponsors are welcome to renominate a candidate after addressing the feedback.
 
 ### Removing a Member
 
-Removal of members, whether by choice, due to inactivity, or for actions that negatively impact the project, follows the same policy as [Removing a Maintainer](RESPONSIBILITIES.md#removing-a-maintainer). Any past member can be reinstated through the [Becoming a Member](#becoming-a-member) process, and prior contributions count toward the activity requirement. There is no "emeritus" status for members.
+Removal of members, whether by choice, due to inactivity, or for actions that negatively impact the project, follows the same policy as [Removing a Maintainer](RESPONSIBILITIES.md#removing-a-maintainer). Any past member can be reinstated through the [Becoming a Member](#becoming-a-member) process. There is no "emeritus" status for members.
 
 ## Maintainer
 

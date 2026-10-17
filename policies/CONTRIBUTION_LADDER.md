@@ -54,7 +54,7 @@ Members are active contributors who have been granted membership in the [opensea
 ### Becoming a Member
 
 1. The sponsor or candidate opens an issue in the [.github](https://github.com/opensearch-project/.github) repository using the "GitHub Request" template with "Organization Membership" as the request type. They add some links similar to https://github.com/search?q=org:opensearch-project+commenter:epugh&type=issues with the member's GitHub id.
-2. If the request was made by a candidate then the sponsor must comment with a +1 the issue vouching for the person.
+2. If the request was made by a candidate then the sponsoring maintainer must confirm by commenting (+1) on the issue.
 3. If the requirements are met, the [members of the admin team](https://github.com/opensearch-project/.github/blob/main/ADMINS.md) invite the candidate to the GitHub organization, add them to the [triage team](https://github.com/orgs/opensearch-project/teams/triage) and close the issue.
 
 If a request is declined, the admin team notes the reason on the issue. Sponsors are welcome to renominate a candidate after addressing the feedback.
